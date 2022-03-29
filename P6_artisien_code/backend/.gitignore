@@ -1,0 +1,3 @@
+/node_modules
+# Fichier comportant les var d'environnement 
+/.env
